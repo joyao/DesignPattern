@@ -1,0 +1,6 @@
+D:\GoogleDrive\DesignPattern\Strategy\bin\Debug\Strategy.exe.config
+D:\GoogleDrive\DesignPattern\Strategy\bin\Debug\Strategy.exe
+D:\GoogleDrive\DesignPattern\Strategy\bin\Debug\Strategy.pdb
+D:\GoogleDrive\DesignPattern\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+D:\GoogleDrive\DesignPattern\Strategy\obj\Debug\Strategy.exe
+D:\GoogleDrive\DesignPattern\Strategy\obj\Debug\Strategy.pdb
