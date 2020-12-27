@@ -1,0 +1,6 @@
+D:\GoogleDrive\DesignPattern\SimpleFactory\bin\Debug\SimpleFactory.exe
+D:\GoogleDrive\DesignPattern\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+D:\GoogleDrive\DesignPattern\SimpleFactory\bin\Debug\SimpleFactory.pdb
+D:\GoogleDrive\DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.csprojAssemblyReference.cache
+D:\GoogleDrive\DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.exe
+D:\GoogleDrive\DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.pdb
