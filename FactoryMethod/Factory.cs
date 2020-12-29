@@ -6,7 +6,24 @@ using System.Threading.Tasks;
 
 namespace FactoryMethod
 {
-    class Factory
+    interface IFactory
     {
+        Nightingale CreateNightingale();
+    }
+
+    class UndergraduateFactory: IFactory
+    {
+        public Nightingale CreateNightingale()
+        {
+            return new Undergraduate();
+        }
+    }
+
+    class VolunteerFactory : IFactory
+    {
+        public Nightingale CreateNightingale()
+        {
+            return new Volunteer();
+        }
     }
 }

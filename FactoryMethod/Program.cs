@@ -10,6 +10,14 @@ namespace FactoryMethod
     {
         static void Main(string[] args)
         {
+            IFactory factory = new UndergraduateFactory();
+            Nightingale student = factory.CreateNightingale();
+
+            student.BuyRice();
+            student.Sweep();
+            student.Wash();
+
+            Console.Read();
         }
     }
 }
