@@ -1,0 +1,14 @@
+D:\GoogleDrive\DesignPattern\Observer\bin\Debug\Observer.exe.config
+D:\GoogleDrive\DesignPattern\Observer\bin\Debug\Observer.exe
+D:\GoogleDrive\DesignPattern\Observer\bin\Debug\Observer.pdb
+D:\GoogleDrive\DesignPattern\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+D:\GoogleDrive\DesignPattern\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\DesignPattern\Observer\obj\Debug\Observer.exe
+D:\GoogleDrive\DesignPattern\Observer\obj\Debug\Observer.pdb
+D:\GoogleDrive\DesignPattern\Observer_EventHandler\bin\Debug\Observer.exe.config
+D:\GoogleDrive\DesignPattern\Observer_EventHandler\bin\Debug\Observer.exe
+D:\GoogleDrive\DesignPattern\Observer_EventHandler\bin\Debug\Observer.pdb
+D:\GoogleDrive\DesignPattern\Observer_EventHandler\obj\Debug\Observer.csprojAssemblyReference.cache
+D:\GoogleDrive\DesignPattern\Observer_EventHandler\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\DesignPattern\Observer_EventHandler\obj\Debug\Observer.exe
+D:\GoogleDrive\DesignPattern\Observer_EventHandler\obj\Debug\Observer.pdb
