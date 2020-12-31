@@ -1,0 +1,14 @@
+C:\Users\hsujo\source\repos\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\hsujo\source\repos\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\hsujo\source\repos\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\hsujo\source\repos\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\hsujo\source\repos\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\hsujo\source\repos\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\hsujo\source\repos\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\GoogleDrive\DesignPattern\AbstractFactory\AbstractFactory_Reflect\bin\Debug\AbstractFactory.exe.config
+D:\GoogleDrive\DesignPattern\AbstractFactory\AbstractFactory_Reflect\bin\Debug\AbstractFactory.exe
+D:\GoogleDrive\DesignPattern\AbstractFactory\AbstractFactory_Reflect\bin\Debug\AbstractFactory.pdb
+D:\GoogleDrive\DesignPattern\AbstractFactory\AbstractFactory_Reflect\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+D:\GoogleDrive\DesignPattern\AbstractFactory\AbstractFactory_Reflect\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\DesignPattern\AbstractFactory\AbstractFactory_Reflect\obj\Debug\AbstractFactory.exe
+D:\GoogleDrive\DesignPattern\AbstractFactory\AbstractFactory_Reflect\obj\Debug\AbstractFactory.pdb
